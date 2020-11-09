@@ -12,44 +12,14 @@
 	<atom:link href="https://arnodefacq.com/category/sound_en/feed/" rel="self" type="application/rss+xml" />
 	<link>https://arnodefacq.com</link>
 	<description>Portfolio Website</description>
-	<lastBuildDate>Wed, 06 May 2020 22:42:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Nov 2020 01:14:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
 	<item>
-		<title>D.O.P. Showreel</title>
-		<link>https://arnodefacq.com/2020/05/05/showreel/</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 05 May 2020 18:04:29 +0000</pubDate>
-				<category><![CDATA[Camera]]></category>
-		<category><![CDATA[Portfolio]]></category>
-		<category><![CDATA[Sound]]></category>
-		<guid isPermaLink="false">https://arnodefacq.com/?p=10</guid>
-
-					<description><![CDATA[Director Of Photography Showreel All lightning and shooting of the fragments in this showreel were done by me. Projects: Per cosi Poco Confession Self Help Tongue-Tied Gabriel Descending Broosmooi Fade Out Pune Short Destination Monzambano]]></description>
-										<content:encoded><![CDATA[<h6><iframe src="https://player.vimeo.com/video/415681521?title=0&amp;byline=0&amp;portrait=0" width="1180" height="553" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h6>
-<h6><strong>Director Of Photography Showreel</strong></h6>
-<p>All lightning and shooting of the fragments in this showreel were done by me.<br />
-Projects:<br />
-Per cosi Poco<br />
-Confession<br />
-Self Help<br />
-Tongue-Tied<br />
-Gabriel Descending<br />
-Broosmooi<br />
-Fade Out<br />
-Pune Short<br />
-Destination Monzambano</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Confession</title>
 		<link>https://arnodefacq.com/2020/05/06/confession-short-film/</link>
 		
@@ -115,7 +85,7 @@ Lover: Cristian Moriconi</p>
 		<link>https://arnodefacq.com/2020/05/06/divina-tragedia/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 06 May 2020 17:29:41 +0000</pubDate>
+		<pubDate>Wed, 06 May 2020 19:25:41 +0000</pubDate>
 				<category><![CDATA[Editing]]></category>
 		<category><![CDATA[Portfolio]]></category>
 		<category><![CDATA[Sound]]></category>
@@ -165,6 +135,36 @@ I Directed, Edited, did the audio postproduction and produced all the music used
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<p><iframe src="https://www.youtube.com/embed/ybV6nUSBv-E" width="1180" height="660" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>D.O.P. Showreel</title>
+		<link>https://arnodefacq.com/2020/05/05/showreel/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 05 May 2020 18:04:29 +0000</pubDate>
+				<category><![CDATA[Camera]]></category>
+		<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[Sound]]></category>
+		<guid isPermaLink="false">https://arnodefacq.com/?p=10</guid>
+
+					<description><![CDATA[Director Of Photography Showreel All lightning and shooting of the fragments in this showreel were done by me. Projects: Per cosi Poco Confession Self Help Tongue-Tied Gabriel Descending Broosmooi Fade Out Pune Short Destination Monzambano]]></description>
+										<content:encoded><![CDATA[<h6><iframe src="https://player.vimeo.com/video/415681521?title=0&amp;byline=0&amp;portrait=0" width="1180" height="553" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h6>
+<h6><strong>Director Of Photography Showreel</strong></h6>
+<p>All lightning and shooting of the fragments in this showreel were done by me.<br />
+Projects:<br />
+Per cosi Poco<br />
+Confession<br />
+Self Help<br />
+Tongue-Tied<br />
+Gabriel Descending<br />
+Broosmooi<br />
+Fade Out<br />
+Pune Short<br />
+Destination Monzambano</p>
 ]]></content:encoded>
 					
 		

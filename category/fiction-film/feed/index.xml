@@ -12,13 +12,13 @@
 	<atom:link href="https://arnodefacq.com/category/fiction-film/feed/" rel="self" type="application/rss+xml" />
 	<link>https://arnodefacq.com</link>
 	<description>Portfolio Website</description>
-	<lastBuildDate>Wed, 06 May 2020 22:02:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Nov 2020 01:17:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.4</generator>
 	<item>
 		<title>Confession</title>
 		<link>https://arnodefacq.com/2020/05/06/confession-short-film/</link>
@@ -95,6 +95,28 @@ Lover: Cristian Moriconi</p>
 										<content:encoded><![CDATA[<p><iframe src="https://www.youtube-nocookie.com/embed/5zH-6dyVens" width="1160" height="660" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <h6>[ Director Of Photography ]</h6>
 <p>Self Help is story based on a r/nosleep Reddit post. It was shot in Italy in 2 days.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Tale Of Two Punekars</title>
+		<link>https://arnodefacq.com/2019/05/06/a-tale-of-two-punekars/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 06 May 2019 19:22:20 +0000</pubDate>
+				<category><![CDATA[Camera]]></category>
+		<category><![CDATA[Fiction Film]]></category>
+		<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://arnodefacq.com/?p=164</guid>
+
+					<description><![CDATA[[ D.O.P. ] We follow a day in the life of a village and city girl from Pune, India, and their completely divergent relationships with water. Shot in India.]]></description>
+										<content:encoded><![CDATA[<p><iframe src="https://player.vimeo.com/video/398621824" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h6></h6>
+<h6>[ D.O.P. ]</h6>
+<p>We follow a day in the life of a village and city girl from Pune, India, and their completely divergent relationships with water.<br />
+Shot in India.</p>
 ]]></content:encoded>
 					
 		
